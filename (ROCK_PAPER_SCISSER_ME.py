@@ -30,6 +30,6 @@ elif user == "R" and PC == "S" :
 elif user == "S" and PC == "P" :
    print("User winn") 
 else :
-   print ("You losE!")   
+   print ("You losee!")   
 
 print("Game Over")   
